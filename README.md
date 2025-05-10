@@ -1,3 +1,9 @@
+# First React Notes App
+This is my attempt at deploying notes app using amplify on AWS. Instructions included [here](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/module-one/).
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
